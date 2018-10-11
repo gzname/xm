@@ -34,8 +34,6 @@ define('RUNTIME_PATH', CMF_ROOT . 'data/runtime/');
 // 定义CMF 版本号
 define('THINKCMF_VERSION', '5.0.180626');
 
-// 定义CMF 版本号
-define('THINKCMF_VERSION', '5.0.180626');
 
 // 加载框架基础文件
 require CMF_ROOT . 'simplewind/thinkphp/base.php';
