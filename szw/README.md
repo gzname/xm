@@ -4,7 +4,7 @@ ThinkCMF 5.0.180626 正式版
 ### 系列讲座
 https://www.thinkcmf.com/college.html
 
-### ThinkCMF5主要特性
+### ThinkCMF5主要特性111
 * 基于全新 ThinkPHP5.0开发
 * 更规范的代码,遵循PSR-2命名规范和PSR-4自动加载规范
 * 更规范的数据库设计
